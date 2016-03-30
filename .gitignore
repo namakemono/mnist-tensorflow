@@ -1,0 +1,6 @@
+MNIST_data
+.DS_Store
+temp
+*.pyc
+*.swp
+*.bmp
