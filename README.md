@@ -1,17 +1,19 @@
-* MNIST via TensorFlow
+# MNIST via TensorFlow
 
-** Usage
+## Usage
 ```
 python train.py
 ```
 
-** Performance
+## Performance
+
 |Name         |                       |
 |-------------|-----------------------|
 |Accuracy     | 99.27%                |
 |Examples/Sec | 10k                   |
 
-** Environment
+## Environment
+
 |Name      |            Description|
 |----------|-----------------------|
 |GPU       | GeForce GTX TITAN X   |
@@ -19,7 +21,8 @@ python train.py
 |OS        | Ubuntu 16.04 LTS      |
 |Library   | TensorFlow 0.8.0      |
 
-** Network Architecture
+## Network Architecture
+
 |Layer Type   | Parameters                         |
 |-------------|------------------------------------|
 |input        | size:32x32, channels:1             |
